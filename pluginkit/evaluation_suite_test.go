@@ -3,7 +3,7 @@ package pluginkit
 import (
 	"testing"
 
-	"github.com/revanite-io/sci/pkg/layer4"
+	"github.com/ossf/gemara/layer4"
 )
 
 func TestCleanup(t *testing.T) {

@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/goccy/go-yaml"
+	"github.com/ossf/gemara/layer4"
 	"github.com/privateerproj/privateer-sdk/config"
-	"github.com/revanite-io/sci/pkg/layer4"
 )
 
 // The vessel gets the armory in position to execute the ControlEvaluations specified in the testSuites
